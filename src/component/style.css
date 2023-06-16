@@ -1,0 +1,37 @@
+main, body{
+    background-color: rgb(255, 255, 255);
+}
+ul{
+    margin-bottom: 0;
+}
+
+.nav{
+    background-color: rgb(24, 3, 82);
+    box-shadow: rgb(15, 1, 52);
+    box-shadow: 2px black;
+}
+
+#basic-nav-dropdown:hover{
+    background-color: rgb(7, 2, 57);
+    border-radius: 1rem;
+    color: #ffffff;
+}
+
+.logo{
+    color: #ffffff;
+    font-size: 2em;
+    /* margin-left: 80%; */
+}
+
+.logo:hover{
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.nav-link, nav-link:hover, .NavDropdown:active, .NavDropdown:visited {
+    color: #ffffff;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #ffffff;
+}
