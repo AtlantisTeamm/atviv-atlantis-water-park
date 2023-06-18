@@ -6,6 +6,6 @@ Para executar:
 
 Abra o terrminal de comando dentro da pasta e digite:
 
-    npm install
+    yarn
 
-    npm start
+    yarn dev
